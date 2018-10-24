@@ -1,2 +1,4 @@
 # Hello-World
-Projetos 
+OI, Sou George Ferraz
+Estou aqui para aprender e criar projetos.
+Compartilhar conhecimento e aprender linguagens de programação.
